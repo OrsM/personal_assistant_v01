@@ -1,0 +1,19 @@
+import os
+from dotenv import load_dotenv
+import openai
+
+load_dotenv()
+
+API_KEY=os.getenv('API_KEY')
+ORGANIZATION=os.getenv('ORGANIZATION')
+
+openai.organization = ORGANIZATION
+openai.api_key = API_KEY
+
+
+openai.Completion.create(
+    model="text-davinci-003",
+    prompt="I want to organize a complex project with several teams involved, what should I do?",
+    max_tokens=50,
+    temperature=0.5
+)
