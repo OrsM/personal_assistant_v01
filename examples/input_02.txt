@@ -1,0 +1,44 @@
+eboussah
+
+go on seller central
+* choose a product type - 50k browse nodes, key friction
+* once selected, individual template
+* begin filling it's advanced (required/optional/conditional), also price quantity, with all mkpls... many many columns
+* very prone to error
+* then you upload, wait around 30'to 2h get the feedback 
+* error codes are not super clear, no help - need to go to seller help pages (scattered, not updated)
+* SeSu don't have the right setup
+* we only get feedback from AM managed SPs... except from listing frictions dashboard
+    * missing required attributes
+    * matching error
+    * invalid value
+* all teams working to fix this workflow
+    * some teams working on similar to smart flat file
+        * IN team working on the pre-fill experience using ML models; seller can provide any type of input; huge investment (language dependent)
+        * in EU expansion we have big competitors, with the same tools, deterministic mapping between the value attributes for BOL.com, enforce that mapping, then leverage ML on top of that; intention was to merge these - built in blocks (ML, determenistic), each MKPL can decide what block to plug in (in EU Expansion deterministic, US the ML... and also
+       
+        * smart sheet which is something else (Retail EU), online experience for the flatfile, sellers don't have real time validation; with an online validation you can avoid the errors - then we can use another tool on top - next year to be launch for 1P & 3P - it's an online template, other catalogue providers use this, like bol.com, online template to fill in, you can download & summary reports, you can submit / save
+        * pre-fill experience (will also use for API)
+        * **ASIN list** to solve matching issue for the seller to use the 1x1 experience to have the results, which exist or not, they can confirm
+            * then if it exists you only need to add offer-level attributes (price, quantity...)
+            * in other countries, if MENA is doing it... why not also in US? copy the same detail page - copy & translate
+        * HOOK will for matching products, you go to complete your drafts & in incomplete listings you can see the value we have in our catalogue, 1x1 to edit it - very low adoption rate
+
+
+        * Catalogue requirements - metadata working on impacting this, phased listing experience; today we don't create the listing until all is there (required attributes), nudge the SP to add the attributes, to improve IDQ... listing team working team with CPG team - 1x1 for pilot, if it works it goes to bulk
+            * this helps bring in more selection to Amazon
+        * SPICE extracts attributes from the images to enrich
+        * LOSG to replace BIL
+        * Listing Quality Dashboard
+
+* ATL/BTL very tricky question - HC restrictions
+* tracking, for Smart Flat File, will measure incremental HC, time to list, will not move a lot as Dom SPs will only impact those SPs...
+* for all others, 7d & first attempt should go down
+* all will impact selection
+* most will impact catalog quality & time to list
+* risks 
+
+* single forum - how to make sure we stay connected: monthly MBR from SPS was very tech oriented, decided to have a separate MBR for LIsting Friction (first session is this week, Marco will be there)
+
+* what to push for : smart sheet, ASIN list also - let's pilot if it works, then expand
+
