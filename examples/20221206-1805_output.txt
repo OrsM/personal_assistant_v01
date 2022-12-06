@@ -1,0 +1,12 @@
+
+Key Points:
+* Need to go to Seller Central and choose a product type out of 50k browse nodes
+* Fill out the about advanced/required/optional/conditional/price/quantity
+* Errors are not clear, require Seller Help Pages and Listing Frictions Dashboard 
+* Teams working on Smart Flat File, pre-fill experience (ML models), online templates, ASIN lists
+* LISTING FRICTIONS Dashboard to track HC, time to list, catalogue quality, incremental HC
+* Monthly MBRs to stay connected
+
+Next Steps
+* Pilot ASIN list to see if it works
+* Take advantage of Smart Sheet, pre-fill experience (ML models), and online templates
