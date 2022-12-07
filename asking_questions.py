@@ -1,6 +1,7 @@
 import os
 import openai
 import datetime
+# the below requires  pip install python-dotenv
 from dotenv import load_dotenv
 
 load_dotenv()
