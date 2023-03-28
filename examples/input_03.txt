@@ -1,0 +1,111 @@
+* thank you for joining today's call
+* we have brought together the catalogue, product knowledge, SPS listings, ASIN localization and EU Seller Experience teams to discuss the best way to provide a quick improvement of Seller and Customer Experience in EU
+* We are open to any alternative suggestions that can help unlock the 9MM ASINs and >$500MM in yearly GMS at stake by end of Q1'23
+
+* Opening the floor for feedback on the overall proposal
+
+
+* intro from Marco on what EU SX is
+
+* short term solu
+
+Mey: 3 quick questions 
+- any unsuppression from SPs; % of ASINs corrected, typical correction
+- dynamic title length at product type & language level
+- solution aligned with PK
+
+Dheerain: 
+- since this doc was initiated, # of ASINs has gone from 9MM to 11MM, 
+- 
+
+Sachiv: the number is increasing, the problem is growing, 2nd our SX bar should not be autocorrect, the bar and threshold is it should work, in  asingle store it works, here Amazon is doing it on their behalf
+
+SP may not even speak the language, cannot translate themselves, SP is not equipped to fix this
+
+this is why they rely on localization
+
+Nishith: exploring both at PT type and language level, however 200 is very high limit - keyword stuffing, most of the titles, end status will be lower vs 200, might be ~100 characters
+
+easy fix? Dheerain, light fix, is it aligned with PK - multiple steps where the validation is applied, 200 characters in the input it would stay, in the validation where we check it could be >200 
+
+
+Peter: 
+1) earlier I thought we had said if a seller edits those will trigger and issue is that not the case and 
+2) has SPS and EU legal signed off on the level playing field statement.
+
+
+1. SPS is ok?
+
+2. Legal on playing field 
+
+if these are met 
+
+recommendation from ASCS is to pilot the acceptable length limit at the language level, to apply with internal & external stakeholders, avoiding bias 
+
+Jeannette: selection central contributions could have an advantage vs vendor & 3p
+
+Sachin: even if we increase it at par, we will have this issue, if we increase to 240, if we go to DE, lengthening it will increase again, the problem 
+
+Peter: DE language will need to inflate, race to longest, should be internal
+* there are experiences that can generate this issue
+
+get legal, if we're ok - get their approval
+on the SX in his 9y their feedback is amazon is not level playing field, they ask for different limits
+
+Sachiv - I'm a SP, send the listing through BIL, IT->DE, 240 characters, if they edit the title to shorten to 226, listing will get suppressed because 
+
+if they edit to title, it depends on how you submit the data, resubmissions can be blocked, if you read their first ever submission, if your experience resubmits the DE 
+
+Ilaria: if the SP manually edits the title in the longer language - we can check in how many cases this happens - may be a small problem, team can check - fair callout, Pranav & Sachiv
+
+Legal & SPS Listing to say OK -- Peter Thistleton
+
+If as a SP anything I do in source store won't have an impact, would need to list in the destination to make an active edit, that triggers the rule 
+
+Private brands can create a +200 character name, level playing field, will we allow Amazon SPs
+
+amount of complexities is introduced, goes against the strategy of reducing title length - counterintuitive, $0.5B, EU Business impact
+
+truncate to 200 characters ASIN Localization - 
+
+Mey agrees, we don't need to suppress, can we try to 
+
+Localization is exploring, 1K ASIN checks, color & sizes as attributes at the end of the title - SL... 
+
+every time an ASIN is updated we need to redo, capacity will come in 2 quarters - even on the level playing field - truncation and optimization are being worked on...
+Localization increases length from language A to B
+
+alternative - if we just suppress the final 40 characters - don't run into the issues; less concern on the legal process -- performance issues for the SP -- SP can run into performance issues - if legal says this is better; 
+
+translations are cut at 200 characters -- small problem, could lead to big escalations
+
+could be OK to live with the 3months in the short term 
+
+Pranav - suppressions are unacceptable, XX characters will face a gap, forget the exact #, are we ok with (i) truncating the source title; (ii) keep the full title and do a one-time non-level playing field and force them -- draft a short paragraph do we want to lean to 
+
+Pranav push to truncate title, this way -- go to legal and move fast on this
+
+Level of effort to truncate vs catalogue -- truncating is months, catalog team to confirm -- Jeannette to share - how long would it take, had not done the language level, would need to change in UMP, couple of months -- internal vs external 
+
+Pranav ---
+We should also find out what % of SPs edit these ASINs in target marketplace.
+If that number is small, we could lean in to the short term solution for a few months.
+
+short term solution to just remove the suppression limit to 240 limits -- Peter Thistleton, it's at the marketplace, we know the longer titles
+SP cannot create with 240 characters -- Dheerain suggesting to relax the suppression rules on the backend, in the front end they stay, 
+
+- edit use case
+- legal concern w/level playing field
+
+Only as a short-term solve -- Short term becomes long-term 
+
+
+### schedule in 1 week, we can postpone
+
+next steps
+
+1. long term solution when does it happen - Jeannette
+2. allow 240 characters, 
+    - issue with edits; SPS Listing, Sachiv & L6 -- take it offline, nice to have; level of effort - Jeannette & Dheerain
+3. truncation; level of effort - Dheerain
+4. legal feedback -- necessary inputs; George Castro, on us
