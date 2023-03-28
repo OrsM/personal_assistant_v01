@@ -1,7 +1,0 @@
-
-
-Key bullets and next steps:
-- Choose a product type, fill in the advanced fields of the individual template, and upload 
-- Wait around 30-2 hours to get feedback and troubleshoot any errors by consulting seller help pages 
-- Teams are working on similar tools for pre-fill experience, such as “Smart Sheet” and “ASIN list”, to improve time to list and catalogue quality 
-- Have a monthly meeting for Listing Friction to stay informed of the tools. Pilot the tools and if successful, expand the pilot.
